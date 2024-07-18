@@ -1,2 +1,4 @@
-user_input = input("Enter your message: ")
-print(user_input)
+
+# Refactored variable names for clarity
+user_name = input("Enter your name: ")
+print(f"Hello, {user_name}!")
